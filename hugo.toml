@@ -1,0 +1,6 @@
+baseurl      = "https://Shinji-Mimura.github.io/myblog"
+title        = "Regular_Blog"
+languageCode = "en-us"
+theme        = "hugo-PaperMod"
+paginate     = 10
+publishDir = "docs"
